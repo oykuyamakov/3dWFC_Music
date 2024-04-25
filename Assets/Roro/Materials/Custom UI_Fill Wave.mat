@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Custom UI_Fill Wave
+  m_Shader: {fileID: 4800000, guid: 5d75c2669c2be4212a7f56d5fa25cf13, type: 3}
+  m_ValidKeywords:
+  - VERTICAL_MAKER
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _ColorMask: 20
+    - _Fill: 0.854
+    - _Stencil: 182.8
+    - _StencilComp: 278.62
+    - _StencilOp: 315.2
+    - _StencilReadMask: 715.7
+    - _StencilWriteMask: 397.5
+    - _UseUIAlphaClip: 0
+    - _Vertical: 1
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []

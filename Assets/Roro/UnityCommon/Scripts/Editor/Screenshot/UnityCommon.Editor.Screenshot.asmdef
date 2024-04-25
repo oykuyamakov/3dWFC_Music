@@ -1,0 +1,26 @@
+{
+    "name": "UnityCommon.Editor.Screenshot",
+    "rootNamespace": "",
+    "references": [
+        "GUID:478a2357cc57436488a56e564b08d223"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "HAS_EDITOR_COROUTINES"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.unity.editorcoroutines",
+            "expression": "1.0.0",
+            "define": "HAS_EDITOR_COROUTINES"
+        }
+    ],
+    "noEngineReferences": false
+}
