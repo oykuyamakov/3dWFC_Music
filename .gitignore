@@ -72,6 +72,7 @@ ExportedObj/
 /[Aa]ssets/**/FMODStudioCache.asset
 /[Aa]ssets/**/FMODStudioCache.asset.meta
 /[Aa]ssets/Plugins/FMOD/Cache.meta
+/[Aa]ssets/Plugins/FMOD/platforms
 /[Aa]ssets/Plugins/FMOD/Cache/Editor.meta
 
 # Log-files
